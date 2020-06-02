@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+   text-align: center;
+}
+
+input{
+    margin-left: 10px;
+}
+
+.hidden{
+    display: hidden;
+}
